@@ -7,3 +7,5 @@ Gittracks changes of files.
 
 I love git!
 
+Creating a new branch is quick.
+
